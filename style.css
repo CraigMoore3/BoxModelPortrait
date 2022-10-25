@@ -1,3 +1,909 @@
 * {
     background-color: rgb(127,190,203);
 }
+
+#frame {
+    position: absolute;
+    width: 369px;
+    height: 369px;
+    left: 69px;
+    top: 69px;
+    border: 10px solid white;
+}
+
+#forehead {
+    position: absolute;
+    margin: 0px;
+    width: 132.43px;
+    height: 134.33px;
+    background-color: rgb(213, 163, 128);
+    left: 184px;
+    top: 177.34px;
+}
+
+
+/* Ear L */
+
+
+#LowerSideburnL {
+    position: absolute;
+    margin: 0px;
+    width: 10px;
+    height: 17px;
+    background-color: rgb(100, 72, 51);
+    left: 170px;
+    top: 250px;
+}
+
+#UpperInnerEarL {
+    position: absolute;
+    margin: 0px;
+    width: 8px;
+    height: 21px;
+    background-color: rgb(231, 139, 116);
+    left: 165px;
+    top: 258px;
+}
+
+#EarL1 {
+    position: absolute;
+    margin: 0px;
+    width: 5px;
+    height: 9px;
+    background-color: rgb(215, 168, 148);
+    left: 168px;
+    top: 276px;
+}
+
+#UpperEarL {
+    position: absolute;
+    margin: 0px;
+    width: 10px;
+    height: 8px;
+    background-color: rgb(222, 176, 152);
+    left: 164px;
+    top: 252px;
+}
+
+#UpperLEarL {
+    position: absolute;
+    margin: 0px;
+    width: 4px;
+    height: 15px;
+    background-color: rgb(222, 176, 152);
+    left: 163px;
+    top: 256px;
+}
+
+#InnerEarL {
+    position: absolute;
+    margin: 0px;
+    width: 11px;
+    height: 30.8px;
+    background-color: rgb(157, 100, 73);
+    left: 173px;
+    top: 265.59px;
+}
+
+#EarlobeL {
+    position: absolute;
+    margin: 0px;
+    width: 13px;
+    height: 15px;
+    background-color: rgb(217, 181, 167);
+    left: 171px;
+    top: 290px;
+}
+
+#EarL2 {
+    position: absolute;
+    margin: 0px;
+    width: 4px;
+    height: 30px;
+    background-color: rgb( 225, 176, 144);
+    left: 171px;
+    top: 263px;
+}
+
+#InnerEarL2 {
+    position: absolute;
+    margin: 0px;
+    width: 4px;
+    height: 17px;
+    background-color: rgb(205, 137, 114);
+    left: 176px;
+    top: 273px;
+}
+
+
+/* Ear R */
+
+
+#UpperEarR {
+    position: absolute;
+    margin: 0px;
+    width: 19.97px;
+    height: 23.49px;
+    background-color: rgb(172, 123, 91);
+    left: 319.03px;
+    top: 239.24px;
+}
+
+#EarR1 {
+    position: absolute;
+    margin: 0px;
+    width: 10px;
+    height: 7px;
+    background-color: rgb( 204, 146, 122);
+    left: 325px;
+    top: 255px;
+}
+
+#EarR2 {
+    position: absolute;
+    margin: 0px;
+    width: 5.36px;
+    height: 15px;
+    background-color: rgb( 185, 109, 83);
+    left: 333.81px;
+    top: 246px;
+}
+
+#InnerEarR1 {
+    position: absolute;
+    margin: 0px;
+    width: 9.95px;
+    height: 25.58px;
+    background-color: rgb( 185, 135, 108);
+    left: 318.03px;
+    top: 261.41px;
+}
+
+#SideburnR1 {
+    position: absolute;
+    margin: 0px;
+    width: 5px;
+    height: 48px;
+    background-color: rgb( 71, 49, 28);
+    left: 316px;
+    top: 241px;
+}
+
+#InnerEarR2 {
+    position: absolute;
+    margin: 0px;
+    width: 9.77px;
+    height: 25.64px;
+    background-color: rgb( 175, 110, 80);
+    left: 323px;
+    top: 261.38px;
+}
+
+#InnerEarRShadow {
+    position: absolute;
+    margin: 0px;
+    width: 5px;
+    height: 6px;
+    background-color: rgb( 120, 59, 28);
+    left: 323px;
+    top: 261px;
+}
+
+#EarlobeR {
+    position: absolute;
+    margin: 0px;
+    width: 11px;
+    height: 15px;
+    background-color: rgb( 185, 135, 108);
+    left: 317px;
+    top: 285px;
+}
+
+#EarlobeR2 {
+    position: absolute;
+    margin: 0px;
+    width: 12px;
+    height: 17px;
+    background-color: rgb( 204, 160, 135);
+    left: 324px;
+    top: 278px;
+}
+
+#EarR3 {
+    position: absolute;
+    margin: 0px;
+    width: 7px;
+    height: 22px;
+    background-color: rgb( 208, 152, 127);
+    left: 332px;
+    top: 261px;
+}
+
+
+/* Forehead Temple Eyebrows R */
+
+
+#EyebrowR {
+    position: absolute;
+    margin: 0px;
+    width: 45.09px;
+    height: 7.75px;
+    background-color: rgb( 83, 51, 40);
+    left: 257.75px;
+    top: 236.88px;
+}
+
+
+#TempleR {
+    position: absolute;
+    margin: 0px;
+    width: 17px;
+    height: 105px;
+    background-color: rgb( 182, 144, 108);
+    left: 300px;
+    top: 219px;
+}
+
+
+#ForeheadShadowR {
+    position: absolute;
+    margin: 0px;
+    width: 17px;
+    height: 52px;
+    background-color: rgb( 178, 135, 101);
+    left: 291px;
+    top: 176px;
+}
+
+
+/* Forehead Temple Eyebrows L */
+
+
+#EyesocketShadowLL {
+    position: absolute;
+    margin: 0px;
+    width: 8px;
+    height: 30px;
+    background-color: rgb( 98, 53, 20);
+    left: 184px;
+    top: 247px;
+}
+
+
+#EyesocketL {
+    position: absolute;
+    margin: 0px;
+    width: 48px;
+    height: 16px;
+    background-color: rgb( 187, 131, 96);
+    left: 187px;
+    top: 249px;
+}
+
+
+#EyesocketShadowLR {
+    position: absolute;
+    margin: 0px;
+    width: 18px;
+    height: 8px;
+    background-color: rgb( 98, 53, 20);
+    left: 217px;
+    top: 248px;
+}
+
+
+#TempleL {
+    position: absolute;
+    margin: 0px;
+    width: 10px;
+    height: 55px;
+    background-color: rgb( 193, 159, 134);
+    left: 179px;
+    top: 232px;
+}
+
+
+#EyebrowL {
+    position: absolute;
+    margin: 0px;
+    width: 45.06px;
+    height: 7.34px;
+    background-color: rgb( 83, 51, 40);
+    left: 183.28px;
+    top: 241.91px;
+}
+
+
+#ForeheadShadowL {
+    position: absolute;
+    margin: 0px;
+    width: 70px;
+    height: 47px;
+    background-color: rgb( 178, 129, 88);
+    left: 176px;
+    top: 176px;
+}
+
+
+/* Lips Chin */
+
+
+#LowerCheekL {
+    position: absolute;
+    margin: 0px;
+    width: 29.04px;
+    height: 56.46px;
+    background-color: rgb( 181, 138, 103);
+    left: 274.47px;
+    top: 297.28px;
+}
+
+#LowerCheekR {
+    position: absolute;
+    margin: 0px;
+    width: 27.02px;
+    height: 56.73px;
+    background-color: rgb( 201, 152, 112);
+    left: 199px;
+    top: 297.31px;
+}
+
+#ChinBottom {
+    position: absolute;
+    margin: 0px;
+    width: 58px;
+    height: 27px;
+    background-color: rgb( 210, 164, 131);
+    left: 224px;
+    top: 345px;
+}
+
+#ChinL1 {
+    position: absolute;
+    margin: 0px;
+    width: 28px;
+    height: 31px;
+    background-color: rgb( 212, 166, 133);
+    left: 210px;
+    top: 320px;
+}
+
+#ChinR1 {
+    position: absolute;
+    margin: 0px;
+    width: 28px;
+    height: 33px;
+    background-color: rgb( 212, 166, 133);
+    left: 260px;
+    top: 320px;
+}
+
+#ChinUpMid {
+    position: absolute;
+    margin: 0px;
+    width: 28.17px;
+    height: 26px;
+    background-color: rgb( 203, 152, 123);
+    left: 234.91px;
+    top: 324px;
+}
+
+#UnderNoseL {
+    position: absolute;
+    margin: 0px;
+    width: 27px;
+    height: 13px;
+    background-color: rgb( 215, 171, 136);
+    left: 215px;
+    top: 303px;
+}
+
+#LipLower {
+    position: absolute;
+    margin: 0px;
+    width: 49px;
+    height: 6px;
+    background-color: rgb( 200, 126, 113);
+    left: 222px;
+    top: 319px;
+}
+
+#LipUpper {
+    position: absolute;
+    margin: 0px;
+    width: 59px;
+    height: 5px;
+    background-color: rgb( 89, 34, 27);
+    left: 218px;
+    top: 315px;
+}
+
+
+/* Nose */
+
+
+#NostrilR {
+    position: absolute;
+    margin: 0px;
+    width: 21.25px;
+    height: 28.84px;
+    background-color: rgb(163, 109, 81);
+    left: 243.5px;
+    top: 282.94px;
+}
+
+#CheekLShadow {
+    position: absolute;
+    margin: 0px;
+    width: 29px;
+    height: 10px;
+    background-color: rgb(176, 117, 85);
+    left: 198px;
+    top: 290px;
+}
+
+#NostrilL {
+    position: absolute;
+    margin: 0px;
+    width: 13px;
+    height: 16px;
+    background-color: rgb(220, 175, 144);
+    left: 225.28px;
+    top: 291.22px;
+}
+
+#NoseBridge {
+    position: absolute;
+    margin: 0px;
+    width: 15.78px;
+    height: 54.26px;
+    background-color: rgb( 216, 169, 139);
+    left: 234.91px;
+    top: 251.94px;
+}
+
+#NoseShadow {
+    position: absolute;
+    margin: 0px;
+    width: 13.15px;
+    height: 9.56px;
+    background-color: rgb( 113, 65, 42);
+    left: 239.94px;
+    top: 305.44px;
+}
+
+#UnderNoseR {
+    position: absolute;
+    margin: 0px;
+    width: 33.6px;
+    height: 12px;
+    background-color: rgb( 179, 134, 103);
+    left: 248.38px;
+    top: 304.09px;
+}
+
+
+/* Cheek R */
+
+
+#CheekEyeR {
+    position: absolute;
+    margin: 0px;
+    width: 24.81px;
+    height: 21.58px;
+    background-color: rgb( 181, 141, 115);
+    left: 249.19px;
+    top: 263.22px;
+}
+
+#CheekR {
+    position: absolute;
+    margin: 0px;
+    width: ;
+    height: ;
+    background-color: rgb( , , );
+    left: ;
+    top: ;
+}
+
+
+/* Eye R */
+
+
+#EyeSocketR {
+    position: absolute;
+    margin: 0px;
+    width: ;
+    height: ;
+    background-color: rgb( , , );
+    left: ;
+    top: ;
+}
+
+#EyelidRL {
+    position: absolute;
+    margin: 0px;
+    width: ;
+    height: ;
+    background-color: rgb( , , );
+    left: ;
+    top: ;
+}
+
+#EyelidRR {
+    position: absolute;
+    margin: 0px;
+    width: ;
+    height: ;
+    background-color: rgb( , , );
+    left: ;
+    top: ;
+}
+
+#EyelidLowerR {
+    position: absolute;
+    margin: 0px;
+    width: ;
+    height: ;
+    background-color: rgb( , , );
+    left: ;
+    top: ;
+}
+
+#ScleraR {
+    position: absolute;
+    margin: 0px;
+    width: ;
+    height: ;
+    background-color: rgb( , , );
+    left: ;
+    top: ;
+}
+
+#IrisR {
+    position: absolute;
+    margin: 0px;
+    width: ;
+    height: ;
+    background-color: rgb( , , );
+    left: ;
+    top: ;
+}
+
+#PupilR {
+    position: absolute;
+    margin: 0px;
+    width: ;
+    height: ;
+    background-color: rgb( , , );
+    left: ;
+    top: ;
+}
+
+
+/* Eye L */
+
+
+#LowerLCheek {
+    position: absolute;
+    margin: 0px;
+    width: ;
+    height: ;
+    background-color: rgb( , , );
+    left: ;
+    top: ;
+}
+
+#CheekLHighlight {
+    position: absolute;
+    margin: 0px;
+    width: ;
+    height: ;
+    background-color: rgb( , , );
+    left: ;
+    top: ;
+}
+
+#ScleraL {
+    position: absolute;
+    margin: 0px;
+    width: ;
+    height: ;
+    background-color: rgb( , , );
+    left: ;
+    top: ;
+}
+
+#IrisL {
+    position: absolute;
+    margin: 0px;
+    width: ;
+    height: ;
+    background-color: rgb( , , );
+    left: ;
+    top: ;
+}
+
+#PupilL {
+    position: absolute;
+    margin: 0px;
+    width: ;
+    height: ;
+    background-color: rgb( , , );
+    left: ;
+    top: ;
+}
+
+#EyelidLowerL {
+    position: absolute;
+    margin: 0px;
+    width: ;
+    height: ;
+    background-color: rgb( , , );
+    left: ;
+    top: ;
+}
+
+
+/* Hair */
+
+
+#Hair1 {
+    position: absolute;
+    margin: 0px;
+    width: ;
+    height: ;
+    background-color: rgb( , , );
+    left: ;
+    top: ;
+}
+
+#Hair2 {
+    position: absolute;
+    margin: 0px;
+    width: ;
+    height: ;
+    background-color: rgb( , , );
+    left: ;
+    top: ;
+}
+
+#Hair3 {
+    position: absolute;
+    margin: 0px;
+    width: ;
+    height: ;
+    background-color: rgb( , , );
+    left: ;
+    top: ;
+}
+
+#Hair4 {
+    position: absolute;
+    margin: 0px;
+    width: ;
+    height: ;
+    background-color: rgb( , , );
+    left: ;
+    top: ;
+}
+
+#Hair5 {
+    position: absolute;
+    margin: 0px;
+    width: ;
+    height: ;
+    background-color: rgb( , , );
+    left: ;
+    top: ;
+}
+
+#Hair6 {
+    position: absolute;
+    margin: 0px;
+    width: ;
+    height: ;
+    background-color: rgb( , , );
+    left: ;
+    top: ;
+}
+
+#Hair7 {
+    position: absolute;
+    margin: 0px;
+    width: ;
+    height: ;
+    background-color: rgb( , , );
+    left: ;
+    top: ;
+}
+
+#Hair8 {
+    position: absolute;
+    margin: 0px;
+    width: ;
+    height: ;
+    background-color: rgb( , , );
+    left: ;
+    top: ;
+}
+
+#Hair9 {
+    position: absolute;
+    margin: 0px;
+    width: ;
+    height: ;
+    background-color: rgb( , , );
+    left: ;
+    top: ;
+}
+
+#Hair10 {
+    position: absolute;
+    margin: 0px;
+    width: ;
+    height: ;
+    background-color: rgb( , , );
+    left: ;
+    top: ;
+}
+
+#Hair11 {
+    position: absolute;
+    margin: 0px;
+    width: ;
+    height: ;
+    background-color: rgb( , , );
+    left: ;
+    top: ;
+}
+
+#Hair12 {
+    position: absolute;
+    margin: 0px;
+    width: ;
+    height: ;
+    background-color: rgb( , , );
+    left: ;
+    top: ;
+}
+
+#Hair13 {
+    position: absolute;
+    margin: 0px;
+    width: ;
+    height: ;
+    background-color: rgb( , , );
+    left: ;
+    top: ;
+}
+
+#Hair14 {
+    position: absolute;
+    margin: 0px;
+    width: ;
+    height: ;
+    background-color: rgb( , , );
+    left: ;
+    top: ;
+}
+
+#Hair15 {
+    position: absolute;
+    margin: 0px;
+    width: ;
+    height: ;
+    background-color: rgb( , , );
+    left: ;
+    top: ;
+}
+
+#Hair16 {
+    position: absolute;
+    margin: 0px;
+    width: ;
+    height: ;
+    background-color: rgb( , , );
+    left: ;
+    top: ;
+}
+
+#Hair17 {
+    position: absolute;
+    margin: 0px;
+    width: ;
+    height: ;
+    background-color: rgb( , , );
+    left: ;
+    top: ;
+}
+
+#Hair18 {
+    position: absolute;
+    margin: 0px;
+    width: ;
+    height: ;
+    background-color: rgb( , , );
+    left: ;
+    top: ;
+}
+
+#Hair19 {
+    position: absolute;
+    margin: 0px;
+    width: ;
+    height: ;
+    background-color: rgb( , , );
+    left: ;
+    top: ;
+}
+
+#Hair20 {
+    position: absolute;
+    margin: 0px;
+    width: ;
+    height: ;
+    background-color: rgb( , , );
+    left: ;
+    top: ;
+}
+
+#Hair21 {
+    position: absolute;
+    margin: 0px;
+    width: ;
+    height: ;
+    background-color: rgb( , , );
+    left: ;
+    top: ;
+}
+
+#Hair22 {
+    position: absolute;
+    margin: 0px;
+    width: ;
+    height: ;
+    background-color: rgb( , , );
+    left: ;
+    top: ;
+}
+
+#Hair23 {
+    position: absolute;
+    margin: 0px;
+    width: ;
+    height: ;
+    background-color: rgb( , , );
+    left: ;
+    top: ;
+}
+
+#Hair24 {
+    position: absolute;
+    margin: 0px;
+    width: ;
+    height: ;
+    background-color: rgb( , , );
+    left: ;
+    top: ;
+}
+
+#Hair25 {
+    position: absolute;
+    margin: 0px;
+    width: ;
+    height: ;
+    background-color: rgb( , , );
+    left: ;
+    top: ;
+}
+
+
+
+    position: absolute;
+    margin: 0px;
+    width: ;
+    height: ;
+    background-color: rgb( , , );
+    left: ;
+    top: ;
