@@ -499,11 +499,11 @@
 #CheekR {
     position: absolute;
     margin: 0px;
-    width: ;
-    height: ;
-    background-color: rgb( , , );
-    left: ;
-    top: ;
+    width: 36px;
+    height: 36px;
+    background-color: rgb( 187, 131, 96);
+    left: 264px;
+    top: 268px;
 }
 
 
@@ -513,71 +513,71 @@
 #EyeSocketR {
     position: absolute;
     margin: 0px;
-    width: ;
-    height: ;
-    background-color: rgb( , , );
-    left: ;
-    top: ;
+    width: 35px;
+    height: 19px;
+    background-color: rgb( 125, 93, 80);
+    left: 258px;
+    top: 244px;
 }
 
 #EyelidRL {
     position: absolute;
     margin: 0px;
-    width: ;
-    height: ;
-    background-color: rgb( , , );
-    left: ;
-    top: ;
+    width: 9px;
+    height: 18px;
+    background-color: rgb( 141, 104, 77);
+    left: 249px;
+    top: 245px;
 }
 
 #EyelidRR {
     position: absolute;
     margin: 0px;
-    width: ;
-    height: ;
-    background-color: rgb( , , );
-    left: ;
-    top: ;
+    width: 9px;
+    height: 18px;
+    background-color: rgb( 141, 104, 77);
+    left: 292px;
+    top: 243px;
 }
 
 #EyelidLowerR {
     position: absolute;
     margin: 0px;
-    width: ;
-    height: ;
-    background-color: rgb( , , );
-    left: ;
-    top: ;
+    width: 31px;
+    height: 10px;
+    background-color: rgb( 159, 119, 93);
+    left: 269px;
+    top: 261px;
 }
 
 #ScleraR {
     position: absolute;
     margin: 0px;
-    width: ;
-    height: ;
-    background-color: rgb( , , );
-    left: ;
-    top: ;
+    width: 20px;
+    height: 7px;
+    background-color: rgb( 157, 145, 129);
+    left: 268px;
+    top: 252px;
 }
 
 #IrisR {
     position: absolute;
     margin: 0px;
-    width: ;
-    height: ;
-    background-color: rgb( , , );
-    left: ;
-    top: ;
+    width: 11px;
+    height: 6px;
+    background-color: rgb( 58, 66, 55);
+    left: 272px;
+    top: 253px;
 }
 
 #PupilR {
     position: absolute;
     margin: 0px;
-    width: ;
-    height: ;
-    background-color: rgb( , , );
-    left: ;
-    top: ;
+    width: 4px;
+    height: 2px;
+    background-color: rgb( 11, 10, 6);
+    left: 276px;
+    top: 255px;
 }
 
 
@@ -587,61 +587,61 @@
 #LowerLCheek {
     position: absolute;
     margin: 0px;
-    width: ;
-    height: ;
-    background-color: rgb( , , );
-    left: ;
-    top: ;
+    width: 17px;
+    height: 48px;
+    background-color: rgb( 205, 164, 132);
+    left: 183px;
+    top: 288px;
 }
 
 #CheekLHighlight {
     position: absolute;
     margin: 0px;
-    width: ;
-    height: ;
-    background-color: rgb( , , );
-    left: ;
-    top: ;
+    width: 23px;
+    height: 23px;
+    background-color: rgb( 224, 188, 166);
+    left: 188px;
+    top: 271px;
 }
 
 #ScleraL {
     position: absolute;
     margin: 0px;
-    width: ;
-    height: ;
-    background-color: rgb( , , );
-    left: ;
-    top: ;
+    width: 20.01px;
+    height: 7.01px;
+    background-color: rgb( 157, 145, 129);
+    left: 202px;
+    top: 253px;
 }
 
 #IrisL {
     position: absolute;
     margin: 0px;
-    width: ;
-    height: ;
-    background-color: rgb( , , );
-    left: ;
-    top: ;
+    width: 12.24px;
+    height: 6.69px;
+    background-color: rgb( 58, 66, 55);
+    left: 206.41px;
+    top: 253.31px;
 }
 
 #PupilL {
     position: absolute;
     margin: 0px;
-    width: ;
-    height: ;
-    background-color: rgb( , , );
-    left: ;
-    top: ;
+    width: 4.45px;
+    height: 2.23px;
+    background-color: rgb( 11, 10, 6);
+    left: 210.88px;
+    top: 255.53px;
 }
 
 #EyelidLowerL {
     position: absolute;
     margin: 0px;
-    width: ;
-    height: ;
-    background-color: rgb( , , );
-    left: ;
-    top: ;
+    width: 48px;
+    height: 9.39px;
+    background-color: rgb(203, 152, 123);
+    left: 188px;
+    top: 264.81px;
 }
 
 
